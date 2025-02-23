@@ -4,6 +4,14 @@
 
 I am a **DevOps and Cloud Engineer** passionate about **optimizing cloud infrastructure, automating deployments, and ensuring top-tier security**. With expertise in **CI/CD, Kubernetes, Terraform, Ansible, and cloud platforms (Azure/AWS)**, I help businesses **scale efficiently and enhance reliability** through automation and best practices.
 
+## 🛠 Technologies I Have Worked With:
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,redhat,bash,python,docker,kubernetes,openshift,nginx,jenkins,git,gitlab,github,githubactions,unity&theme=light" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=azure,aws,heroku,prometheus,grafana,elasticsearch,terraform,ansible,c,java,maven,gradle,html,css,js&theme=light" />
+</p>
+
 ## 💻 DevOps Projects Showcase
 
 ### 🚀 [Automated CI/CD Pipelines](https://gitlab.com/Mohib-zs/arcana-ci-cd)  
@@ -23,14 +31,6 @@ I developed multiple **Python scripts** using **Azure SDK** to automate various 
 
 ### 📊 [Prometheus & Grafana Integration](https://github.com/Mohib-zs/monitoring-prometheus)  
 I integrated **Prometheus** for real-time monitoring and **Grafana** for intuitive dashboards, ensuring **efficient observability** across infrastructure, applications, and CI/CD pipelines.
-
-## 🛠 Technologies I Have Worked With:
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,redhat,bash,python,docker,kubernetes,openshift,nginx,jenkins,git,gitlab,github,githubactions,unity&theme=light" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=azure,aws,heroku,prometheus,grafana,elasticsearch,terraform,ansible,c,java,maven,gradle,html,css,js&theme=light" />
-</p>
 
 ## 📫 Let's Connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohib-shaikh-199a8a241/)  
