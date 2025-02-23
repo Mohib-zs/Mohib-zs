@@ -1,4 +1,4 @@
-# 🌐 Mohib Shaikh | Cloud & DevOps Engineer
+# 🌐 Mohib Shaikh | DevOps Engineer & Cloud Consultant
 
 👋 Looking for a DevOps Engineer who can optimize your cloud infrastructure, automate deployments, and ensure top-tier security? You’ve come to the right place!
 
