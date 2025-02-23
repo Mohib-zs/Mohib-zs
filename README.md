@@ -1,10 +1,10 @@
-# 🚀 Mohib Shaikh | DevOps Engineer & Cloud Enthusiast  
+# 🌐 Mohib Shaikh | Cloud & DevOps Engineer
 
 👋 Looking for a DevOps Engineer who can optimize your cloud infrastructure, automate deployments, and ensure top-tier security? You’ve come to the right place!
 
 I am a **DevOps and Cloud Engineer** specializing in designing, automating, and managing cloud infrastructure for startups, small businesses, and enterprises. Here’s how I can help your business scale efficiently:
 
-## 🚀 How I Can Help Your Business
+## 💵 How I Can Help Your Business
 
 🔹 **Streamlined CI/CD Pipelines:** I design automated, high-performance CI/CD solutions using GitLab CI/CD, Jenkins, or any other tool you require, reducing deployment times and enhancing software reliability.
 
