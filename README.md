@@ -1,24 +1,28 @@
 # 🌐 Mohib Shaikh | DevOps Engineer & Cloud Consultant
 
-👋 Looking for a DevOps Engineer who can optimize your cloud infrastructure, automate deployments, and ensure top-tier security? You’ve come to the right place!
+## 👋 About Me  
 
-I am a **DevOps and Cloud Engineer** specializing in designing, automating, and managing cloud infrastructure for startups, small businesses, and enterprises. Here’s how I can help your business scale efficiently:
+I am a **DevOps and Cloud Engineer** passionate about **optimizing cloud infrastructure, automating deployments, and ensuring top-tier security**. With expertise in **CI/CD, Kubernetes, Terraform, Ansible, and cloud platforms (Azure/AWS)**, I help businesses **scale efficiently and enhance reliability** through automation and best practices.
 
-## 💵 How I Can Help Your Business
+## 💻 DevOps Projects Showcase
 
-🔹 **Streamlined CI/CD Pipelines:** I design automated, high-performance CI/CD solutions using GitLab CI/CD, Jenkins, or any other tool you require, reducing deployment times and enhancing software reliability.
+### 🚀 [Automated CI/CD Pipelines](https://gitlab.com/Mohib-zs/arcana-ci-cd)  
+I have designed and implemented robust **CI/CD pipelines** using **Jenkins** and **GitLab CI/CD**, ensuring seamless code deployment and integration. These pipelines significantly reduce manual efforts and accelerate the software release process.
 
-🔹 **Multi-Cloud Infrastructure Management:** I deploy and manage infrastructure across **AWS, Azure, and GCP**, ensuring high availability, cost efficiency, and scalability using **Terraform and Ansible**.
+### ☁️ [Infrastructure as Code (IaC) with Terraform](https://github.com/Mohib-zs/terraform-IaC)  
+I have provisioned and managed scalable cloud infrastructure on **Azure** using **Terraform**, automating the deployment of **VMs, VNets, AKS clusters**, and other critical resources.
 
-🔹 **Kubernetes & OpenShift Expertise:** I install, configure, and manage **Kubernetes and OpenShift** clusters on cloud or on-premises for containerized workloads, ensuring seamless scaling, load balancing, and failover strategies.
+### ⚙️ [Ansible Automation for Configuration Management](https://github.com/Mohib-zs/Ansible)  
+I have automated infrastructure configuration and application deployments using **Ansible**, ensuring **consistency, efficiency, and minimal downtime** across multiple environments.
 
-🔹 **Advanced Troubleshooting Skills:** Whether it's **Kubernetes misconfigurations, pipeline failures, networking issues, or infrastructure failures**, I excel at identifying and resolving issues swiftly to minimize downtime.
+### 🛒 [Microservices-Based Online Shop](https://github.com/Mohib-zs/online-shop-microservices)  
+I designed a **microservices-based e-commerce platform** leveraging **Docker, Kubernetes, Helm Charts, and Prometheus** to ensure **high availability, scalability, and performance monitoring**.
 
-🔹 **Security & Compliance:** I implement strong IAM policies, **DevSecOps best practices**, and security automation, aligning with **OWASP standards, ISO 27001, ISO 22301, and ISO 31000** to fortify your infrastructure against threats.
+### 🐍 [Python Automation for Azure Operations](https://github.com/Mohib-zs/python-automation)  
+I developed multiple **Python scripts** using **Azure SDK** to automate various operations such as **VM management, tagging, snapshot creation, and monitoring**, optimizing cloud resource utilization.
 
-🔹 **Network & System Administration:** With expertise in **Linux system administration, Bash, and Python automation**, I manage servers efficiently, ensuring high uptime and seamless performance.
-
-🔹 **Monitoring & Observability:** I integrate **Prometheus and Grafana** to track performance metrics, detect anomalies, and provide real-time infrastructure insights for proactive incident management.
+### 📊 [Prometheus & Grafana Integration](https://github.com/Mohib-zs/monitoring-prometheus)  
+I integrated **Prometheus** for real-time monitoring and **Grafana** for intuitive dashboards, ensuring **efficient observability** across infrastructure, applications, and CI/CD pipelines.
 
 ## 🛠 Technologies I Have Worked With:
 
@@ -30,9 +34,4 @@ I am a **DevOps and Cloud Engineer** specializing in designing, automating, and 
 
 ## 📫 Let's Connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohib-shaikh-199a8a241/)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mohib-zs)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=webflow&logoColor=white)](https://mohib-portfolio.webflow.io)  
-
-💬 **Interested? Got questions or doubts?**
-
-Let’s talk and find the perfect **DevOps solution** for you! Hit me up on my DM, and let's get started!
