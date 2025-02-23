@@ -31,7 +31,7 @@ I am a **DevOps and Cloud Engineer** specializing in designing, automating, and 
 
 ## 📫 Let's Connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohib-shaikh-199a8a241/)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mohib-zs)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mohib-zs)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=webflow&logoColor=white)](https://mohib-portfolio.webflow.io)  
 
 💬 **Interested? Got questions or doubts?**
