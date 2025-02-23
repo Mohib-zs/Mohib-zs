@@ -22,11 +22,10 @@ I am a **DevOps and Cloud Engineer** specializing in designing, automating, and 
 
 ## 🛠 Technologies I Have Worked With:
 
-### 👩‍💻 DevOps & Cloud:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=azure,aws,linux,bash,python,docker,kubernetes,openshift,terraform,ansible,jenkins,gitlab,github&theme=light" />
+  <img src="https://skillicons.dev/icons?i=linux,mint,redhat,bash,python,docker,kubernetes,openshift,nginx,jenkins,git,gitlab,github,githubactions&theme=light" />
   <br>
-  <img src="https://skillicons.dev/icons?i=prometheus,grafana,c,java,html,css,js,unity3d&theme=light" />
+  <img src="https://skillicons.dev/icons?i=azure,aws,heroku,prometheus,grafana,elasticsearch,terraform,ansible,c,java,maven,gradle,html,css,js,unity&theme=light" />
 </p>
 
 ## 📫 Let's Connect:
