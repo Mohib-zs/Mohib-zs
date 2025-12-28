@@ -1,4 +1,4 @@
-# 🌐 Mohib Shaikh | DevOps Engineer & Cloud Consultant
+# 🌐 Mohib Shaikh | DevOps Engineer
 
 ## 👋 About Me  
 
